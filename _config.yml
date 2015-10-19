@@ -1,6 +1,6 @@
 name: eelwedding
 favicon: null
-layout_spectrum: 0.2539729862473905
+layout_spectrum: 1
 typography_spectrum: 0.09500167961232364
 title: "Bora & Dan's Wedding"
 cta:
@@ -24,6 +24,6 @@ color:
     - '#822c66'
   brandStrength: 1
   lightness: 0.7673556297086179
-  saturation: 0.8442902283277363
+  saturation: 1
   rhythmicContrast: 0.02098457282409072
 purpose: []
